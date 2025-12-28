@@ -1,6 +1,4 @@
-# Battle Factory Editor v3.0 - Enhanced Edition 🎨
-
-## What's New in v3.0
+# Battle Factory Editor v1.0
 
 ### Dual Editing Modes
 - **Edit by Trainer** - Original workflow, select trainer then edit their Pokemon

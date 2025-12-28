@@ -81,7 +81,7 @@ class SearchableCombobox(ttk.Combobox):
 class BattleFactoryEditorEnhanced:
     def __init__(self, root):
         self.root = root
-        self.root.title("Battle Factory Editor v3.2 - Working Search")
+        self.root.title("Battle Factory Editor v1.0")
         self.root.geometry("1600x900")
         
         # Data storage

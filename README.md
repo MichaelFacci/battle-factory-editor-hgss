@@ -1,4 +1,4 @@
-<img width="1317" height="1022" alt="image" src="https://github.com/user-attachments/assets/e7296ad9-6488-4546-8ad4-fa87b3ab0684" /># Battle Factory Editor v3.0 - Enhanced Edition 🎨
+# Battle Factory Editor v3.0 - Enhanced Edition 🎨
 
 ## What's New in v3.0
 
@@ -24,7 +24,10 @@
 
 ## Screenshots
 
-<img width="1317" height="1022" alt="image" src="https://github.com/user-attachments/assets/7e55fbda-7807-45f9-9a0b-9dce8eb4f4ef" />
+<img width="1321" height="1041" alt="image" src="https://github.com/user-attachments/assets/9f0a3dd5-d376-472b-bc3a-3ede6520ea4d" />
+
+<img width="992" height="1046" alt="image" src="https://github.com/user-attachments/assets/8680f9f5-0725-4c25-9df1-53075ddcb078" />
+
 
 
 
